@@ -54,3 +54,4 @@ The format of the configuration file supports a simple notation for mapping mult
 ----
 
 For further information, check the `man` pages.
+For further information, check the `man` pages.
